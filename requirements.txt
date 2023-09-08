@@ -1,0 +1,11 @@
+--find-links https://download.pytorch.org/whl/cu118
+torch
+transformers
+langchain
+chromadb
+pypdf
+xformers
+sentence_transformers
+InstructorEmbedding
+streamlit
+auto-gptq
